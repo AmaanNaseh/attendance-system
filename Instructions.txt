@@ -1,0 +1,5 @@
+Steps to execute this Model :
+
+1. Copy paste pip commands in any terminal (cmd or VSCode or Pycharm) to install required libraries.
+2. Run dataset_csv.py file to create dataset for each student(images will be stored automatically as well as an excel file for student's registratoon details).
+3. Run recognition.py for recognizing face as well as saving attendence in excel sheet.
